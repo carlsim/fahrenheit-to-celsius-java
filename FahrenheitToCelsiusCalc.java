@@ -1,6 +1,4 @@
 /**
- * Created by carL on 2/25/2015.
- *
  * Name: Carl Sim
  *
  * General Description:
